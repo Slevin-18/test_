@@ -1,3 +1,3 @@
-import pygame
-import time
-changes
+print("changes")
+a=input("press sth to exit")
+      
